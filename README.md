@@ -1,6 +1,6 @@
 
 
-# Berrie Parking Data Integration & Visualization Project
+# Barrie Parking Data Integration & Visualization Project
 
 > The code in this repo doesn't run due to all sensitive data are removed and it requires connection to certain server and database.
 
