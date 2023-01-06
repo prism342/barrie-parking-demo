@@ -1,0 +1,149 @@
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <title>Barrie Parking Revenue</title>
+        <style>
+            html,
+            body,
+            #viewDiv {
+                padding: 0;
+                margin: 0;
+                height:100%;
+                width: 100%;
+                overflow: hidden;
+                position: absolute;
+            }
+            /* Add a black background color to the top navigation */
+            .topnav {
+                background-color: #004e7d;
+                padding: 2px;
+            }
+
+            .topnav img {
+                vertical-align: middle;
+                display: inline;
+                height: 30px;
+                padding-left: 10px;
+                padding-top: 4px;
+            }
+
+            .topnav p {
+                display: inline;
+                color: #edf3f6;
+                vertical-align: middle;
+                padding-left: 10px;
+                padding-top: 4px;
+                font-weight: bold;
+                text-decoration: none;
+                font-size: 20px;
+            }
+
+            /* Style the links inside the navigation bar */
+            .topnav a {
+                float: right;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+
+            /* Change the color of links on hover */
+            .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+            }
+
+            #panel {
+                position: absolute;
+                top: 100px;
+                right: 0;
+                background-color: rgba(200, 200, 200, 0.8);
+                padding: 6px;
+            }
+
+            #select_date {
+                font-size: 1rem;
+                text-align: center;
+                background-color: #f2f2f2;
+                margin-top: 5px;
+                display: inline-block;
+                vertical-align: middle;
+            }
+
+            #gis_visual {
+                display: none;
+            }
+
+            #dashboard{
+                display: inline-block;
+            }
+
+        </style>
+        <link rel="stylesheet" href="https://js.arcgis.com/4.22/esri/themes/light/main.css">
+        <script src="https://js.arcgis.com/4.22/"></script>
+        <script src="index.js">
+        </script>
+    </head>
+
+    <body>
+        <div class="topnav">
+            <img class="logo" src="https://barrie.maps.arcgis.com/sharing/rest/content/items/b53559cdfbc945c19214d451f8fee804/data"/>
+            <p class="title">Parking Revenue</p>
+            <button id="switch_page" type="button" onclick="onSwitchPage()" style="float: right; margin-top: 5px; margin-right: 4px;">
+                Show GIS Visual
+            </button>
+        </div>
+
+        <div id="gisvisual">
+            <div id="viewDiv"></div>
+
+            <div id="panel">
+                <div>
+                    Start date: 
+                    <input type="date" id="start_date" name="query-start"
+                    value=""
+                    min="2018-01-01" max="2022-12-31"/>
+                </div>
+                <div>
+                    End date: 
+                    <input type="date" id="end_date" name="query-end"
+                    value=""
+                    min="2018-01-01" max="2022-12-31"/>
+                </div>
+                <div>
+                    <button id="select_date" type="button" onclick="onSelectDate()">
+                        select
+                    </button>
+                </div>
+                <div>
+                    Revenue per space: 
+                    <input type="checkbox" id="toggleRevenuePerSpace" onclick="onToggleRevenuePerSpace()"/>
+                </div>
+                <div>
+                    <img src="blue-red-color-map.png" style="margin-top: 5px;"/>
+                </div>
+                <div>
+                    <a id="revenue_range_left">
+                    0$
+                    </a>
+                    <a id="revenue_range_right" style="float: right;">
+                    0$
+                    </a>
+                </div>
+
+                
+            </div>
+        </div>
+
+        <div id="dashboard">
+            <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNTQ0OTZlNmQtZTZhZi00ZTgzLWI0NmMtYmIwYmI4MmJkMDAyIiwidCI6IjZjNmJhY2VhLTU2NDgtNDU1Yi1hMWFiLWU3MTZiNGY5ZTJhYiIsImMiOjEwfQ%3D%3D" 
+            style="position:absolute; width:100%; height:95%; border:none; overflow:hidden;" 
+            title="Dashboard"></iframe>
+        </div>
+
+    </body>
+
+</html>

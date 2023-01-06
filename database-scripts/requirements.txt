@@ -1,0 +1,6 @@
+pyodbc
+openpyxl
+pandas
+tqdm
+xmltodict
+schedule

@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Yellow_Parking_Pass_Locations">
+  <name>Yellow Parking Pass Locations</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ff00ffff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Yellow Parking Pass Locations</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>BAY 15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BAY 15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200001</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>BAY 15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>15 Bayfield St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>West</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C1-1   (SP-422)</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Bay%2015.jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Bay%2015.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>15 Bayfield Street Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>1267.826967</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>153.191669</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.68960096899333,44.38877663026261,0 -79.68928652818398,44.38840873538509,0 -79.68922236465137,44.38844310555467,0 -79.68919634942159,44.38841813467339,0 -79.68907212661279,44.3884846712759,0 -79.68909921101813,44.38851067628038,0 -79.68902396687768,44.38855097806115,0 -79.68932419735251,44.38890299160596,0 -79.68960096899333,44.38877663026261,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>BAYFIELD/SIMCOE P&#38;D</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BAYFIELD/SIMCOE P&amp;D</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200006</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>BAYFIELD/SIMCOE P&amp;D</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>4 Bayfield St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>East</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>81</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>NO</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C1-1</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Bayfield%20West%20%26Simcoe.jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Bayfield%20West%20%26Simcoe.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Bayfield/Simcoe St Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>2445.541988</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>256.143435</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.68956674829522,44.3883359625996,0 -79.68959280208769,44.388324721705,0 -79.68961885589037,44.38831347990428,0 -79.68963396245972,44.38831683574048,0 -79.68964537421904,44.38833008922014,0 -79.68965678470821,44.38834334358437,0 -79.68966819647777,44.38835659706184,0 -79.68969442695918,44.38834503316873,0 -79.68972065617517,44.38833346925504,0 -79.6897468866361,44.38832190534959,0 -79.68977311708676,44.38831034143795,0 -79.6897993475272,44.38829877752016,0 -79.68982557670222,44.38828721358179,0 -79.68985180712215,44.38827564965164,0 -79.68987803753186,44.38826408571532,0 -79.68990426667614,44.38825252175843,0 -79.68993049706536,44.38824095780979,0 -79.6899188736521,44.38822666570321,0 -79.68990725026451,44.38821237269543,0 -79.68989562686244,44.38819808058656,0 -79.68989762156271,44.38819240917063,0 -79.68991850823909,44.38818344786518,0 -79.68993939616432,44.38817448657023,0 -79.68996028282805,44.38816552525697,0 -79.68994399367148,44.38814646484317,0 -79.68992770450528,44.38812740532713,0 -79.68991141536968,44.38810834490879,0 -79.68989512622446,44.38808928538825,0 -79.6898788371098,44.38807022496539,0 -79.68986254798556,44.38805116544033,0 -79.68984625889188,44.38803210501296,0 -79.6898299697886,44.38801304548338,0 -79.68981368071589,44.38799398505149,0 -79.68979890326969,44.38797689377562,0 -79.68978412457685,44.38795980248351,0 -79.68976934587246,44.38794271208955,0 -79.68975456845185,44.3879256208081,0 -79.6897397897846,44.38790852951042,0 -79.68972501238106,44.38789143822526,0 -79.68974115898072,44.38788362624877,0 -79.68975253207188,44.38789495266655,0 -79.68976390518749,44.38790627818314,0 -79.68979008239842,44.3878943346362,0 -79.68981625832353,44.38788239196875,0 -79.68984243551331,44.38787044840953,0 -79.68986861141731,44.38785850572979,0 -79.68989478858599,44.38784656215823,0 -79.68992096574409,44.38783461858052,0 -79.68994714161639,44.38782267588232,0 -79.68997331875336,44.38781073229232,0 -79.68999949460452,44.38779878958179,0 -79.69002567172038,44.38778684597951,0 -79.69001030570806,44.38776906736434,0 -79.6899949409601,44.38775128876156,0 -79.68999997057119,44.38774267131429,0 -79.6899995823715,44.38774206367088,0 -79.68999926998349,44.38774143438997,0 -79.68999903320638,44.38774079247206,0 -79.68999887214055,44.38774013341695,0 -79.68999879913686,44.38773946636912,0 -79.6899988014429,44.38773880018515,0 -79.68999889161026,44.38773813500899,0 -79.68999905688658,44.38773747969721,0 -79.68999930354764,44.38773683432183,0 -79.68999962511687,44.38773620781139,0 -79.69000002149383,44.38773560466612,0 -79.69000049257821,44.38773502938633,0 -79.69000102581832,44.38773448182803,0 -79.69000162718882,44.38773397556402,0 -79.6900022905143,44.38773350602206,0 -79.69000300941856,44.3877330776304,0 -79.69000377114921,44.38773269924562,0 -79.69000997931524,44.38772989404826,0 -79.69001598454666,44.38772718105259,0 -79.68999970255187,44.38770864829419,0 -79.68998341933219,44.38769011461905,0 -79.68996713735778,44.38767158185613,0 -79.6899609101678,44.38767439583587,0 -79.68996014667023,44.38767474088957,0 -79.68995961903623,44.38768032740361,0 -79.6899460690376,44.38768813138526,0 -79.68993101536562,44.38768190428972,0 -79.68991567390643,44.38766589770285,0 -79.68990033247563,44.38764989021393,0 -79.68987329558257,44.38766210661397,0 -79.68984625869844,44.38767432210737,0 -79.68981922303823,44.38768653850867,0 -79.68979218613177,44.38769875398896,0 -79.68976514919409,44.38771097036274,0 -79.6897381122653,44.38772318582991,0 -79.68971107656047,44.38773540220497,0 -79.68968403958931,44.38774761855907,0 -79.68965700262706,44.38775983400654,0 -79.68962996563356,44.38777205034752,0 -79.68960292990415,44.38778426579628,0 -79.68957589288836,44.38779648212412,0 -79.68954885588147,44.38780869754537,0 -79.68952181884332,44.38782091386009,0 -79.6894947830492,44.38783313018266,0 -79.68946774600886,44.3878453455842,0 -79.68944070893725,44.38785756187925,0 -79.68941367187456,44.38786977726765,0 -79.68938663603582,44.38788199356396,0 -79.6893595989508,44.38789420893928,0 -79.68933256183456,44.38790642520807,0 -79.68934317202191,44.38792256663456,0 -79.68935378349026,44.38793870717443,0 -79.6893643936891,44.38795484859899,0 -79.68937500516896,44.38797098913694,0 -79.68937061061638,44.38798585551555,0 -79.689354260542,44.38799552419142,0 -79.68933483553488,44.38800323456837,0 -79.6893154092475,44.38801094582759,0 -79.68929598423031,44.3880186561978,0 -79.68931161738486,44.38803694663483,0 -79.68932725054911,44.38805523706976,0 -79.68934288244773,44.38807352838828,0 -79.68935851563127,44.38809181881908,0 -79.68937414882446,44.38811010924777,0 -79.68938978202732,44.38812839967441,0 -79.68940541523983,44.38814669009896,0 -79.68942104718674,44.38816498140707,0 -79.68943668041855,44.38818327182747,0 -79.68945231366006,44.38820156224576,0 -79.68943363603017,44.3882062724656,0 -79.68941495839738,44.38821098268232,0 -79.68942696729488,44.38822695469293,0 -79.68943897619884,44.38824292670231,0 -79.68945098636445,44.38825889872482,0 -79.68946299528132,44.38827487073176,0 -79.68948117450331,44.38826577220397,0 -79.6894993537197,44.38825667367322,0 -79.68951354608623,44.38827337115109,0 -79.68952684661788,44.3882890194655,0 -79.68954014717667,44.38830466687833,0 -79.6895534477224,44.38832031518974,0 -79.68956674829522,44.3883359625996,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>MAPLE 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MAPLE 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200017</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>MAPLE 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>52 Maple Ave</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>West</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>NO</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C1-1</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Maple%201%20(Maple%20closer%20to%20Dunlop).jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Maple%201%20(Maple%20closer%20to%20Dunlop).jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Maple/Dunlop St W Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>717.307964</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>121.727405</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.69188608478306,44.38943811533019,0 -79.69192798334831,44.38941982610994,0 -79.6919539526706,44.38945008590917,0 -79.69237896939795,44.38926253082451,0 -79.69226656101951,44.38913137682469,0 -79.69183891120565,44.38931604023152,0 -79.69187681327791,44.38936020297696,0 -79.69183675839741,44.38937829812927,0 -79.69188608478306,44.38943811533019,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>MARY</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MARY</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200019</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>MARY</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>26 Mary St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>West</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>Non-applicable</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C2-1</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>Must use coin to pay at parking meter</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:13:09 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Mary Street Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>800.175326</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>127.691104</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.69174669542232,44.38757857231354,0 -79.69181176137471,44.38755120626586,0 -79.69184683820291,44.38759409697946,0 -79.69225968958558,44.3874204833745,0 -79.69212564933154,44.3872668363642,0 -79.69172212953923,44.38744201935021,0 -79.69176180402309,44.38748901403905,0 -79.69169382783176,44.38751852540783,0 -79.69170618905734,44.38753256740606,0 -79.69170995442751,44.38753684187762,0 -79.69171761365273,44.38754554083911,0 -79.69174669542232,44.38757857231354,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>P&#38;D #1383</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>P&amp;D #1383</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200029</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>P&amp;D #1383</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>58 Maple Ave</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>West</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>34</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C1-1</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/P%26D%201383%20(Mid%20Maple).jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/P%26D%201383%20(Mid%20Maple).jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Maple Ave Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>1198.352282</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>146.879404</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.69220562658373,44.38981426479791,0 -79.69224255998017,44.38985758176261,0 -79.69271436462459,44.38965643574419,0 -79.69252090712166,44.38942693987209,0 -79.69209376489624,44.38961299107075,0 -79.69225024560903,44.38979531879644,0 -79.69220562658373,44.38981426479791,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>P&#38;D #1384</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>P&amp;D #1384</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200030</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>P&amp;D #1384</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>76 Maple Ave</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>West</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C1-1</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Maple%20%26%20Ross.jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Maple%20%26%20Ross.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>Motorcycle parking available</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Maple Ave/Ross St Parking</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>1455.902631</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>156.569035</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.6927880728179,44.39049947716078,0 -79.69281424886555,44.39048800556162,0 -79.69285813904776,44.39053949100137,0 -79.69327398781101,44.39035724289638,0 -79.69303187031218,44.39007319210171,0 -79.69261483729871,44.39025596144609,0 -79.69276665287222,44.39043407392822,0 -79.69274089517063,44.39044536574701,0 -79.69277540106053,44.39048496358406,0 -79.6927880728179,44.39049947716078,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>SIMCOE ST EAST PARKING LOT, SI A, SI B</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SIMCOE ST EAST PARKING LOT, SI A, SI B</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200042</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>SIMCOE ST EAST PARKING LOT, SI A, SI B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>9 CHASE MCEACHERN WAY</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>South</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C1-1   (SP-422)</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Simcoe%20East%20(Chase%20McEachern).jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Simcoe%20East%20(Chase%20McEachern).jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>Motorcycle parking available</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Chase McEachern Way Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>3035.652225</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>263.310957</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.68812735235947,44.38880916039792,0 -79.68813201742145,44.38880940304524,0 -79.68813716769732,44.38880928214947,0 -79.6881422700354,44.38880877808202,0 -79.68814728040364,44.38880789483856,0 -79.68815212956576,44.3888066406266,0 -79.68815676691217,44.38880503287051,0 -79.68815885169606,44.38880416103517,0 -79.68819856277777,44.38878620186671,0 -79.68820996392398,44.38877996781513,0 -79.68821530214457,44.38877705369218,0 -79.68827856115496,44.38874387558138,0 -79.68846996996444,44.38864349550389,0 -79.6887739684407,44.38847886714964,0 -79.68886978536726,44.38842697648784,0 -79.68908361941332,44.38830616429385,0 -79.68910922038476,44.38829204010301,0 -79.68913135357205,44.38827578294145,0 -79.68916542121242,44.38825076344893,0 -79.68916709969089,44.38824953131925,0 -79.68916881312245,44.38824729577374,0 -79.68904943821475,44.38810371663001,0 -79.68789152272323,44.38851732939806,0 -79.68812735235947,44.38880916039792,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>BRADFORD</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BRADFORD</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Asset Identifier</td>
+<td>102200007</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Identifier</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Parking Name</td>
+<td>BRADFORD</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type</td>
+<td>OFF STREET</td>
+</tr>
+<tr>
+<td>Payment Mechanism</td>
+<td>PAY PARKING</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Location</td>
+<td>Downtown</td>
+</tr>
+<tr>
+<td>Lot Address/ Parking Location</td>
+<td>19 Bradford St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Street Orientation</td>
+<td>East</td>
+</tr>
+<tr>
+<td>Time Limit</td>
+<td>None</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Enforcement Hours</td>
+<td>9am to 5pm Monday to Friday</td>
+</tr>
+<tr>
+<td>Hourly Parking Rate ($)</td>
+<td>1.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Daily Parking Rate ($)</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>Monthly Parking Rate ($)</td>
+<td>66.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Number of Spaces</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Reserved Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Accessible Spaces</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Motorcycle Spaces</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Taxi Spaces</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Resident Pass</td>
+<td>NO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Parking Orientation</td>
+<td>Non-Applicable</td>
+</tr>
+<tr>
+<td>Date Installed</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Date Removed/Abandoned</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>CITY OF BARRIE (COB)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Manager</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Status of the asset</td>
+<td>ACTIVE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Surplus</td>
+<td>NO</td>
+</tr>
+<tr>
+<td>Transit ID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Zoning Designation</td>
+<td>C2-1</td>
+</tr>
+<tr>
+<td>LEGACYID</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Label</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>URL</td>
+<td><a target="_blank" href="https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Bradford%20St.jpg">https://www.barrie.ca/Online%20Services/PublishingImages/Parking_Lot_Photos/Bradford%20St.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comment</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Last Update Date</td>
+<td>10/5/2021 2:14:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Editor</td>
+<td>BARRIE\Brittany.Zucchetto</td>
+</tr>
+<tr>
+<td>Land Use</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CHARGING_STATION</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Visible</td>
+<td>YES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Common Name</td>
+<td>Bradford St Parking Lot</td>
+</tr>
+<tr>
+<td>Current vs Proposed</td>
+<td>Proposed</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape.STArea()</td>
+<td>1210.226575</td>
+</tr>
+<tr>
+<td>Shape.STLength()</td>
+<td>201.235122</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.69348232012288,44.38637401741806,0 -79.69349379370013,44.38638722350971,0 -79.69350526853763,44.38640042961462,0 -79.69351674214514,44.38641363480399,0 -79.69352821699289,44.38642684090664,0 -79.69354067996613,44.38644122868186,0 -79.69355314169032,44.38645561644141,0 -79.6935656046757,44.38647000421398,0 -79.69357806768717,44.38648439108518,0 -79.69359053068467,44.3864987788551,0 -79.69360299243309,44.38651316660935,0 -79.6936154554427,44.38652755437662,0 -79.69362791845836,44.38654194214259,0 -79.69364038022493,44.38655632989287,0 -79.69365284325274,44.38657071765618,0 -79.69366530630658,44.38658510451812,0 -79.69367776934646,44.38659949227878,0 -79.69369023113728,44.38661388002376,0 -79.69370269418928,44.38662826778179,0 -79.69368112468312,44.38663738672411,0 -79.69365955642547,44.38664650567662,0 -79.69363798688603,44.38665562551066,0 -79.69361641861508,44.38666474445485,0 -79.6935948490824,44.38667386338049,0 -79.69357328079819,44.38668298231633,0 -79.69355171125221,44.38669210123362,0 -79.69353014293472,44.38670122106119,0 -79.69350857337547,44.38671033997018,0 -79.69348700506471,44.38671945888935,0 -79.69349894265518,44.38673229576974,0 -79.69351088023082,44.38674513354897,0 -79.69352281783164,44.38675797042695,0 -79.69353475543764,44.38677080730368,0 -79.69355861981307,44.38676982350421,0 -79.69358248416778,44.38676884059977,0 -79.69360634854183,44.38676785679027,0 -79.69363021289519,44.38676687387585,0 -79.69365407726788,44.38676589005637,0 -79.69367794161985,44.38676490713192,0 -79.69370180724631,44.38676392331682,0 -79.69372567161696,44.38676293948235,0 -79.69374953596689,44.38676195654293,0 -79.69377340033616,44.38676097269845,0 -79.69379726468472,44.38675998974905,0 -79.69382112905261,44.38675900589458,0 -79.69382045849179,44.38674247350243,0 -79.69381978795123,44.38672594021015,0 -79.69382274477275,44.38671074661485,0 -79.693834108289,44.38669774863095,0 -79.69385188951107,44.38668921923379,0 -79.69387297939346,44.38668664974583,0 -79.69389274720388,44.38668679299629,0 -79.69389181347969,44.3866698992814,0 -79.69389087975591,44.38665300556647,0 -79.69388994475743,44.38663611273721,0 -79.69388901103451,44.38661921902217,0 -79.69388807731204,44.38660232530708,0 -79.69388801108776,44.38660214179195,0 -79.69387482021075,44.38660365555909,0 -79.69385628619899,44.38660476970929,0 -79.69383801427504,44.38660228481541,0 -79.69382133622726,44.38659638176182,0 -79.69381150196571,44.38658713589857,0 -79.69380166770722,44.38657789003449,0 -79.69379680143193,44.38656626752105,0 -79.69380257912267,44.38655486217637,0 -79.69381671334855,44.38654818887248,0 -79.69383374278419,44.38654749325855,0 -79.69385077221945,44.38654679764205,0 -79.69386780165439,44.38654610202303,0 -79.69386642129727,44.38652817867568,0 -79.69386503968572,44.38651025531391,0 -79.69386365933002,44.38649233196643,0 -79.6938622777199,44.38647440860453,0 -79.69386089736565,44.38645648525691,0 -79.69385951575696,44.38643856189491,0 -79.69385813540414,44.38642063854716,0 -79.69385675507202,44.38640271429934,0 -79.6938553734655,44.38638479093714,0 -79.69385399311481,44.38636686758922,0 -79.6938526115097,44.3863489442269,0 -79.69385123116045,44.38633102087884,0 -79.69384984955677,44.3863130975164,0 -79.69384846920896,44.38629517416825,0 -79.69382660886055,44.38629936975689,0 -79.69380474850911,44.3863035653413,0 -79.69378288815462,44.38630776092149,0 -79.69378186906533,44.38629414236402,0 -79.6937808512116,44.38628052472092,0 -79.69377983337824,44.38626690617772,0 -79.69377881429018,44.38625328762015,0 -79.69375582328952,44.3862540176719,0 -79.69373283105328,44.3862547468046,0 -79.6937098400517,44.38625547684708,0 -79.69368684781452,44.38625620597051,0 -79.69366385681198,44.3862569360037,0 -79.69364086457391,44.38625766511785,0 -79.69364170270542,44.38626987896326,0 -79.69364253960212,44.38628209189428,0 -79.6936433777342,44.38629430573967,0 -79.69363929252121,44.38630350403278,0 -79.69362948349716,44.38631011515499,0 -79.69360954053654,44.38631830288981,0 -79.69358959755039,44.38632649152113,0 -79.69356965457875,44.38633467924883,0 -79.69355288850871,44.38633081879497,0 -79.69354320675887,44.38631963093841,0 -79.69353352503272,44.38630844218102,0 -79.69352384329022,44.38629725432287,0 -79.6935059565746,44.38630539353975,0 -79.69348806861895,44.38631353183936,0 -79.69347018189349,44.38632167105049,0 -79.69345229518312,44.38632980935868,0 -79.69346238595064,44.38634224969667,0 -79.69347247544721,44.38635469091946,0 -79.6934825662232,44.38636713125571,0 -79.69348242890547,44.38637398085057,0 -79.69348232012288,44.38637401741806,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
