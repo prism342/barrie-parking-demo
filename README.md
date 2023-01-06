@@ -6,15 +6,15 @@
 
 ## Demos
 
-<kbd><img src="./readme_assets/database.png" width="1373" height="680" ></kbd>
+<kbd><img src="./readme_assets/database.png" width="961" height="476" ></kbd>
 
-<kbd><img src="./readme_assets/parking-gis.png" width="1280" height="668" ></kbd>
+<kbd><img src="./readme_assets/parking-gis.png" width="896" height="468" ></kbd>
 
 ## Letter of Reference from City of Barrie
 
 [Letter of Reference from City of Barrie](./readme_assets/Letter%20of%20Reference%20Xuehao%20Xiang.pdf)  
 
-# Gide to run the code
+## Gide to run the code
 
 ## Requirements:
 
